@@ -1,4 +1,4 @@
-# ModbusXOJO
+# Modbus XOJO
 Aplicacion Modbus en XOJO para Mac en modo RTU
 
 # Funcionamiento 
